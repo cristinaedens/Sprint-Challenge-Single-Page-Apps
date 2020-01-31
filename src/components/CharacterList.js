@@ -28,7 +28,9 @@ export default function CharacterList() {
 
   return (
     <section className="character-list">
+      <div className="charatitle">
       <h2>Character List</h2>
+      </div>
       <Link className="main-buttons" to={"/"}>
         Home
       </Link>
