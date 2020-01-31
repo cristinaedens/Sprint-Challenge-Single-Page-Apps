@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: • Client side routing makes it so we can reload a page without doing a server request. It doesn't refresh and the data is still displayed. This means the page loads faster.
 
 ## Project Set Up
 
